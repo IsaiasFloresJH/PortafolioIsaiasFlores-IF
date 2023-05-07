@@ -262,14 +262,16 @@ a:hover{
 }
 .col-md-6, .col-sm-121{
 	margin-top: -80px;
-  }
+
+}
 .col-md-6, .col-sm-122{
-	margin-top: -80px;
-	padding-top: 70px;
+	margin-top: -28px;
+
 }
 .secionabout{
-	margin-top: -50px;
+	margin-bottom:50px;
   }
+
 
 /*-- section Interests --*/
 
