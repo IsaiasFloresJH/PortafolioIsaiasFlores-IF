@@ -250,6 +250,7 @@ a:hover{
 	padding-left: 40px;
 	margin-bottom: 55px;
 }
+
 .skills h5{
 	font-family: "Poppins", sans-serif;
 	font-size: 14px;
@@ -271,7 +272,6 @@ a:hover{
 .secionabout{
 	margin-bottom:50px;
   }
-
 
 /*-- section Interests --*/
 
@@ -525,6 +525,7 @@ a:hover{
   //////////Footer y estilos //////////
 ///////////////////////////////////// r */
 
+
 footer {
   margin-top: 10px;
   max-width: 100%;
@@ -676,6 +677,7 @@ footer hr {
 
 body{
 	margin: 0px;
+	max-width: 100%;
 }
 
 #headerBar {
@@ -701,6 +703,7 @@ body{
 }
 .skills{
 	padding-left: 0px;
+    padding-top: 0px;
 }
 .title-icon h1 {
 	font-family: "Poppins", sans-serif;
@@ -731,6 +734,7 @@ body{
 @media (max-width: 480px){
 body{
 	margin: 0;
+	max-width: 100%;
 }
 .item-five { width: 100%; }
 .item-three { width: 100%; }
@@ -822,7 +826,10 @@ body{
 	text-align: center;
 	padding: 25px 15px;
 }
+
+
 footer {
+	max-width: 100%;
   display: flex;
   flex-direction: column;
 }
@@ -839,5 +846,5 @@ footer {
   max-width: 350px;
   margin-bottom: 20px;
 }
-	
+
 }}
