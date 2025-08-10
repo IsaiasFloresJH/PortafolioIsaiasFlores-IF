@@ -1,0 +1,16 @@
+Nota: Agregar la foto de perfil
+
+Para completar el diseño, necesitas agregar tu foto personal:
+
+1. Toma una foto de perfil profesional (preferiblemente con fondo neutro)
+2. Guarda la imagen como "perfil.jpg" 
+3. Colócala en la carpeta: assets/img/perfil.jpg
+
+Especificaciones recomendadas para la foto:
+- Formato: JPG o PNG
+- Tamaño: 300x300 píxeles mínimo (la imagen se redimensionará automáticamente)
+- Calidad: Alta resolución para que se vea nítida
+- Tipo: Foto de busto (cabeza y hombros)
+- Fondo: Neutro o profesional
+
+La imagen se mostrará como un círculo de 120px con borde verde (#71d942) y efectos de hover.
